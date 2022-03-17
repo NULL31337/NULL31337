@@ -1,8 +1,4 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NULL31337&hide=javascript,html&theme=gotham)
-
-href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NULL31337&hide=javascript,html&theme=gotham" />
-</a>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NULL31337&hide=javascript,html&theme=gotham" />
 
 
 I’m currently working on [Different small Android apps](https://github.com/NULL31337/RetrofitTraining)
