@@ -3,6 +3,13 @@
 
 I’m currently working on [Different small Android apps](https://github.com/NULL31337/RetrofitTraining)
 
+
+Сompleted projects:
+1) [ITMO Java homeworks](https://github.com/NULL31337/Paradigms---Java)
+2) [ITMO Kotlin homeworks](https://github.com/NULL31337/Kotlin_HW)
+3) [ITMO C++ homeworks](https://github.com/NULL31337/CPP-KT)
+
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NULL31337)
 
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
