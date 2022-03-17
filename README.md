@@ -9,6 +9,9 @@ I’m currently working on [Different small Android apps](https://github.com/NUL
 2) [ITMO Kotlin homeworks](https://github.com/NULL31337/Kotlin_HW)
 3) [ITMO C++ homeworks](https://github.com/NULL31337/CPP-KT)
 
+<a href="https://t.me/NULL3301">
+         <img src= "pictures/teleg.png" width="5%" align = "right">
+</a>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NULL31337)
 
