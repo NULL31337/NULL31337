@@ -1,4 +1,6 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NULL31337&hide=javascript,html&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NULL31337&hide=javascript,html&theme=black-green)
+
+
 I’m currently working on [Different small Android apps](https://github.com/NULL31337/RetrofitTraining)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NULL31337)
