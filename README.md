@@ -1,4 +1,4 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NULL31337&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NULL31337&hide=javascript,html&theme=blue-green)
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NULL31337)
