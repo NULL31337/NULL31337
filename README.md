@@ -4,9 +4,9 @@
 
 I’m currently working on competitive game "Memorize": 
     
-    [Server side (ktor)](https://github.com/NULL31337/MemorizeGame)
+   [Server side (ktor)](https://github.com/NULL31337/MemorizeGame)
     
-    and [Client side (Android)](https://github.com/NULL31337/MemorizeGameAndroid)
+   and [Client side (Android)](https://github.com/NULL31337/MemorizeGameAndroid)
 
 
 Postponed until better times: [Different small Android apps](https://github.com/NULL31337/RetrofitTraining)
